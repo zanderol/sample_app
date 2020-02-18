@@ -39,6 +39,7 @@ gem 'image_processing',           '1.9.3'
 gem 'mini_magick',                '4.9.5'
 # gem 'active_storage_validations', '0.8.2'
 gem 'fog',                     '1.36.0'
+gem "figaro"
 
 gem 'will_paginate',           '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
