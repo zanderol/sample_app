@@ -33,10 +33,18 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'faker',          '1.7.3'
+
+gem 'carrierwave',             '0.10.0'
+gem 'image_processing',           '1.9.3'
+gem 'mini_magick',                '4.9.5'
+# gem 'active_storage_validations', '0.8.2'
+gem 'fog',                     '1.36.0'
+
 gem 'will_paginate',           '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
+gem 'json', '2.1.0'
 
-# Use Capistrano for deployment
+# Use Capistrano for deployment'
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do

@@ -17,10 +17,20 @@
 !/log/.keep
 !/tmp/.keep
 
+# Ignore uploaded files in development.
+/storage/*
+!/storage/.keep
+
+/public/uploads
+
+/public/assets
+.byebug_history
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
+
 /node_modules
 /yarn-error.log
-
-.byebug_history
 
 # Ignore Spring files.
 /spring/*.pid
