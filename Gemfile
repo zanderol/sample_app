@@ -42,7 +42,7 @@ gem 'fog',                     '1.36.0'
 
 gem 'will_paginate',           '3.1.6'
 gem 'bootstrap-will_paginate', '1.0.0'
-gem 'json', '2.1.0'
+gem 'json', '2.3.0'
 
 # Use Capistrano for deployment'
 # gem 'capistrano-rails', group: :development
