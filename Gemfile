@@ -34,7 +34,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt', '~> 3.1.7'
 gem 'faker',          '1.7.3'
 
-gem 'carrierwave',             '0.10.0'
+gem 'carrierwave',             '1.3.2'
 gem 'image_processing',           '1.9.3'
 gem 'mini_magick',                '4.9.5'
 # gem 'active_storage_validations', '0.8.2'
